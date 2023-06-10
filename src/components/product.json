@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "Ho Thi Loan",
+      "class": "PNV24B",
+      "age": "20 tuổi",
+      "gender":"Nam",
+      "image": "https://scontent.fdad7-1.fna.fbcdn.net/v/t39.30808-6/345437364_1281913222533774_3771957975816434060_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=5tubNlFX1uYAX8oWXUP&_nc_ht=scontent.fdad7-1.fna&oh=00_AfCHvL8g-pXBEQTQCGffsoJXP7UaYdeAKPaeB5yGYD1kHg&oe=64637B98"
+    },
+    {
+      "id": 2,
+      "name": "Ho Thi Tai",
+      "class": "PNV24B",
+      "age": "20 tuổi",
+      "gender":"Nam",
+      "image": "https://scontent.fdad7-1.fna.fbcdn.net/v/t39.30808-6/316668915_493994172700402_8261379712429729579_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=6mMNUyoLVsMAX8_OxIj&_nc_ht=scontent.fdad7-1.fna&oh=00_AfBdj2aBfcxDqjf6cA0WI5avvcN1UF1DUlX2YkOuaaRsEw&oe=6462FB57"
+    },
+    {
+      "id": 3,
+      "name": "Hồ Van Di",
+      "class": "PNV24B",
+      "age": "20 tuổi",
+      "gender":"Nữ",
+      "image": "https://scontent.fdad7-1.fna.fbcdn.net/v/t39.30808-6/344849891_1292470781706683_1448824903999396302_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Di_qlOBv71MAX_5v9wl&_nc_ht=scontent.fdad7-1.fna&oh=00_AfALVH--SHOur87k93kZq5MgRy3tRRxnr0o2HX8aMGy4BQ&oe=64622E70"
+    },
+    {
+      "id": 4,
+      "name": "Phan Thanh Lực",
+      "class": "PNV24A",
+      "age": "20 tuổi",
+      "gender":"Nam",
+      "image": "https://scontent.fdad7-1.fna.fbcdn.net/v/t39.30808-6/291600425_1079724992975757_4677717231572088387_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lGylHutl9ZMAX_rF845&_nc_ht=scontent.fdad7-1.fna&oh=00_AfC5wMfbwpFO-B-CPGHPRgtNjbdMNkeeqhIefGHwnY_dcg&oe=64629919"
+    }
+  ]
+  

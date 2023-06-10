@@ -1,23 +1,24 @@
-import logo from './logo.svg';
+// import React from 'react';
 import './App.css';
+import Index from './Tiki/Index';
+import { Routes,Route} from "react-router-dom";
+import Show_Tiki from './Tiki/Show_Tiki';
+import Home from './Tiki/Home';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      {/* <Index></Index> */}
+      {/* <ShowProduct></ShowProduct> */}
+      {/* <Home></Home>
+      <Show_Tiki></Show_Tiki>  */}
+      <Routes>
+                <Route exact path='/Home' element={<Home/>}></Route> 
+                <Route path='/Show_Tiki' element={<Show_Tiki/>}></Route>
+
+        </Routes>
     </div>
   );
 }
